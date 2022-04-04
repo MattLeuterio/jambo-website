@@ -1,0 +1,11 @@
+@import "structure/base";
+@import "structure/reset";
+@import "structure/fonts";
+@import "structure/icon-style";
+
+body {
+  background-color: #F8F8F8;
+  color: #424242;
+  overflow-x: hidden;
+  font-family: "Lexend", sans-serif;
+}
